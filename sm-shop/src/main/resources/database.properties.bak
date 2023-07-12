@@ -11,8 +11,8 @@
 
 #MYSQL
 db.jdbcUrl=jdbc:mysql://192.168.102.195:3306/salesmanager?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8
-db.user=shopizer
-db.password=shopizer
+db.user=test1
+db.password=test1
 db.driverClass=com.mysql.jdbc.Driver
 hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
 db.show.sql=true
